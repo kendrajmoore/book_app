@@ -125,7 +125,7 @@ class Index extends React.Component {
           will give people the ability to make microtransactions without a bank account.</p>
           </section>
           <section className='child-container'>
-          <img className="money" src="/static/castle_drawn.svg" />
+          <img className="money" src="/static/castle.svg" />
           </section>    
     </div>
   </section>
@@ -162,7 +162,7 @@ class Index extends React.Component {
           </p>
           </section>
           <section className='child-container'>
-          <img className="money" src="/static/monster_shapes.png" />
+          <img className="money" src="/static/monster.svg" />
           </section>    
     </div>
   </section>

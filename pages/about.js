@@ -12,7 +12,7 @@ class About extends React.Component {
     <Header />
     <div className="about-page">
       <h1 className="about">About Storytime</h1>
-      <img className="make-image" src="/static/boy.png" />
+      <img className="make-image" src="/static/girl.png" />
 
       <p>Storytime was created so that I could share stories with my daughter during seperations.
       </p>
