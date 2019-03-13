@@ -22,7 +22,7 @@ class Index extends React.Component {
           <h3 className="right-text">Send Your Friends and Family Money in Seconds!</h3>
           </section>
           <section className='child-container'>
-          <img className="money" src="/static/night.png" />
+          <img className="money" src="/static/night.svg" />
           </section>    
     </div>
   </section>
@@ -96,7 +96,7 @@ class Index extends React.Component {
   <h1 className="title-uses">Use Cases</h1> 
     <div className="container-box">   
           <section className='child-container'>
-          <img className="money" src="/static/books.jpg" />
+          <img className="money" src="/static/books.svg" />
           </section>    
           <section className='child-container'>
           <div className="space-two">
@@ -125,7 +125,7 @@ class Index extends React.Component {
           will give people the ability to make microtransactions without a bank account.</p>
           </section>
           <section className='child-container'>
-          <img className="money" src="/static/castle.png" />
+          <img className="money" src="/static/castle_drawn.svg" />
           </section>    
     </div>
   </section>
@@ -134,7 +134,7 @@ class Index extends React.Component {
   <section className="content-section bg-light" id="about">
     <div className="container-box"> 
           <section className='child-container'>
-          <img className="money" src="/static/dragon.png" />
+          <img className="money" src="/static/girl_drawn.svg" />
           </section>     
           <section className='child-container'>
           <div className="space-four">
@@ -162,7 +162,7 @@ class Index extends React.Component {
           </p>
           </section>
           <section className='child-container'>
-          <img className="money" src="/static/monster.png" />
+          <img className="money" src="/static/monster_shapes.png" />
           </section>    
     </div>
   </section>
