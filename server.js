@@ -40,15 +40,6 @@ app.prepare()
 
   const PORT = process.env.PORT || 3000;
 
-  // Mongoose Connection
-const mongoUri =
-process.env.MONGODB_URI || "mongodb://localhost:27017/story";
-mongoose.connect(
-mongoUri,
-{
-  useNewUrlParser: true
-}
-);
 
   server.listen(PORT, (err) => {
     if (err) throw err
