@@ -27,23 +27,6 @@ class Team extends React.Component {
             community, and makes the world a better place.</CardText>
         </CardBody>
       </Card>
-      <Card>
-        <CardImg top width="100%" src="/static/Kiera.png" alt="Card image cap" />
-        <CardBody>
-          <CardTitle><h3>Kiera Moore</h3></CardTitle>
-          <br/>
-          <CardSubtitle>UX/Front End Engineer</CardSubtitle>
-          <br/>
-          <CardText>Kendra arrived at Make School after living in the Austin, TX area for four years. 
-            She has a bachelor degree in history and spent five years as an Air
-             Defense Artillery officer in the US Army. She enjoys reading 
-             long-form articles, traveling, and programming in her free time. 
-             Kendra has lived in several different countries to include Russia 
-             and Estonia. She has visited over 25 countries to include Colombia 
-             this past December where she visited Rappi, the first South American 
-             unicorn tech company.</CardText>
-        </CardBody>
-      </Card>
     </CardGroup>
     </div>
  </div>

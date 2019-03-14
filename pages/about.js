@@ -11,8 +11,8 @@ class About extends React.Component {
    <div>
     <Header />
     <div className="about-page">
-      <h1 className="about">About Storytime</h1>
-      <img className="make-image" src="/static/girl.png" />
+      <h1 className="about">Storytime</h1>
+      <img className="make-image" src="/static/girls.svg" />
 
       <p>Storytime was created so that I could share stories with my daughter during seperations.
       </p>
