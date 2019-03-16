@@ -1,12 +1,17 @@
 import React from 'react';
 import Header from '../components/shared/Header';
 import '../styles/main.scss'
+import Head from 'next/head'
 
 
 class Index extends React.Component {
     render(){
     return(
     <div>
+       <Head>
+        <title>Storytime</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport" />
+      </Head>
       <Header />
       <div>
       <img className="logo" src="/static/logo.png" alt="logo" />
