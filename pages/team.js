@@ -19,12 +19,13 @@ class Team extends React.Component {
           <br/>
           <CardSubtitle>Backend Engineer</CardSubtitle>
           <br/>
-          <CardText>Jasmine started her computer science journey in Florida. While working in 
-            retail she decided that she wanted to shift focus on her career to computer science. 
-            She saw the impact that technology has on the world, and the ability it has to change 
-            it for the better. Jasmine moved to California to attend MakeSchool to sharpen her 
-            technical skills and eventually create technology that will solve problems in her 
-            community, and makes the world a better place.</CardText>
+          <CardText>Kendra arrived at Make School after living in the Austin, TX area
+             for four years. She has a bachelor degree in history and spent five years
+              as an Air Defense Artillery officer in the US Army. She enjoys reading 
+              long-form articles, traveling, and programming in her free time. Kendra 
+              has lived in several different countries to include Russia and Estonia. 
+              She has visited over 25 countries to include Colombia this past December 
+              where she visited Rappi, the first South American unicorn tech company.</CardText>
         </CardBody>
       </Card>
     </CardGroup>

@@ -41,7 +41,7 @@ html, body {
 
   h3.right-text {
       padding-right: 100px;
-      color: #8D50F7;
+      color: #8CCDB0;
   }
 
   h1.right-text-two {
@@ -56,7 +56,6 @@ h1.right-text-three {
 h2.right-text-four {
     color: #8D50F7;
 }
-
 
 h2.right-text-three {
     color: #8D50F7;
@@ -82,11 +81,11 @@ h2.right-text-three {
   }
 
   .navbar-light .navbar-brand {
-      color: white;
+      color: #8CCDB0;
   }
 
   .navbar-light .navbar-nav .nav-link {
-      color: white !important;
+      color: #8CCDB0 !important;
   }
 
   div.card {
@@ -98,11 +97,19 @@ h2.right-text-three {
   }
 
   div.card {
-      color: white;
+    color: #8CCDB0;
+}
+
+  div.card p {
+      color: #8CCDB0;
   }
 
   .about-page h1, p {
-      color: white;
+      color: #8CCDB0;
+  }
+
+  .text-secondary {
+    color: #8CCDB0 !important;
   }
 
   p.error-page {
@@ -233,7 +240,7 @@ section#portfolio.content-section{
   }
 
   p.mb-0 {
-      color: black;
+      color: #8CCDB0;
   }
   
   @media (min-width: 992px) {

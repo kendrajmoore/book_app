@@ -24,9 +24,9 @@ class Index extends React.Component {
           <section className='child-container'>
           <div className="space">
           </div>
-          <h3 className="right-text">Send Your Friends and Family Money in Seconds!</h3>
           </section>
           <section className='child-container'>
+          <h3 className="right-text">Create lasting memories in seconds</h3>
           <img className="money" src="/static/night.svg" />
           </section>    
     </div>
@@ -51,9 +51,9 @@ class Index extends React.Component {
           <img className="too-large" src="static/laptop.png" />
           </span>
           <h4>
-            <strong>Mobile</strong>
+            <strong>Sign Up</strong>
           </h4>
-          <p className="text-faded mb-0">Conduct the entire transaction via a phone</p>
+          <p className="text-faded mb-0">Start creating books in seconds</p>
         </div>
 
 
@@ -62,9 +62,9 @@ class Index extends React.Component {
             <img src="/static/book.png"/>
           </span>
           <h4>
-            <strong>Purchase Blockchain</strong>
+            <strong>Large Book Selections</strong>
           </h4>
-          <p className="text-faded mb-0">No need for Coinbase
+          <p className="text-faded mb-0">Choose from popular books
             <i className="fas fa-heart"></i>
       </p>
         </div>
@@ -75,9 +75,9 @@ class Index extends React.Component {
             <img className="too-large" src="static/microphone.png" />
           </span>
           <h4>
-            <strong>Low Fees</strong>
+            <strong>Record Audio/Video</strong>
           </h4>
-          <p className="text-faded mb-0">Cheaper than Western Union</p>
+          <p className="text-faded mb-0">Options to create video/audio feeds</p>
         </div>
 
         <div className="col-lg-3 col-md-6 mb-5 mb-lg-0">
@@ -85,9 +85,9 @@ class Index extends React.Component {
             <img src="static/upload.png" />
           </span>
           <h4>
-            <strong>Safe and Secure</strong>
+            <strong>Upload to the Cloud</strong>
           </h4>
-          <p className="text-faded mb-0">You can trust us with your data</p>
+          <p className="text-faded mb-0">Access your books anywhere</p>
         </div>
 
 
@@ -106,11 +106,10 @@ class Index extends React.Component {
           <section className='child-container'>
           <div className="space-two">
           </div>
-          <h1 className="right-text-two">Phone Data is Expensive</h1>
-          <p className="use-paragraph-two">In many countries, cell phone data is very expensive. As a result
-          people typically use the internet at home or in wireless cafes. ToshiText will allow users to send
-          money without internet using SMS. Users will need to create an account and wallet using the internet
-          and then they can send money to their friends and families.
+          <h1 className="right-text-two">Audio Books are Expensive</h1>
+          <p className="use-paragraph-two">Paper books are cheap but audio books
+          cost on average 30 dollars. That is alot money considering kids tastes are
+          always evolving. 
           </p>
           </section>  
     </div>
@@ -123,11 +122,15 @@ class Index extends React.Component {
           <div className="space-three">
 
           </div>
-          <h1 className="right-text-three">Need to Conduct Microtransactions</h1>
-          <p className="use-paragraph-three">Many people in foreign countries do not have access
-          to safe and secure bank accounts. People still need to send money and make payments. Sending money via
-          Western Union can be very expensive and many payments apps without a bank account can be insecure. This app
-          will give people the ability to make microtransactions without a bank account.</p>
+          <h1 className="right-text-three">Test</h1>
+          <p className="use-paragraph-three">Lorem ipsum dolor amet seitan stumptown
+           normcore salvia blog blue bottle artisan tofu echo park viral bespoke
+            keytar put a bird on it VHS. IPhone narwhal meditation salvia. S
+            artorial vegan retro PBR&B four dollar toast. Hell of gastropub synth, 
+            tumeric squid next level single-origin coffee flannel keffiyeh bushwick
+             shaman bespoke helvetica gochujang direct trade. Cardigan trust fund
+              farm-to-table, listicle bitters crucifix seitan gastropub YOLO artisan. 
+              Blog kale chips crucifix chicharrones artisan cred skateboard. </p>
           </section>
           <section className='child-container'>
           <img className="money" src="/static/castle.svg" />
@@ -145,10 +148,15 @@ class Index extends React.Component {
           <div className="space-four">
 
           </div>
-          <h2 className="right-text-three">Desire to Participate in Blockchain</h2>
-          <p className="use-paragraph-four"> This app will allow users to purchase blockchain without
-          starting a Coinbase account and linking your Coinbase account to your bank account. You can purchase
-          small amounts of blockchain using our app.
+          <h2 className="right-text-three">test</h2>
+          <p className="use-paragraph-four"> Lorem ipsum dolor amet seitan stumptown
+           normcore salvia blog blue bottle artisan tofu echo park viral bespoke
+            keytar put a bird on it VHS. IPhone narwhal meditation salvia. S
+            artorial vegan retro PBR&B four dollar toast. Hell of gastropub synth, 
+            tumeric squid next level single-origin coffee flannel keffiyeh bushwick
+             shaman bespoke helvetica gochujang direct trade. Cardigan trust fund
+              farm-to-table, listicle bitters crucifix seitan gastropub YOLO artisan. 
+              Blog kale chips crucifix chicharrones artisan cred skateboard.
             </p>
           </section> 
     </div>
@@ -161,9 +169,16 @@ class Index extends React.Component {
           <div className="space-five">
 
           </div>
-          <h2 className="right-text-four">Living in an Austere Environments</h2>
+          <h2 className="right-text-four">Test</h2>
           <p className="use-paragraph-five">
-            More than 4 billion people worldwide, mostly in developed contries still don't have access to the internet. Yet 75% of the world's population has access to cellphones. ToshiText allows users and communities immediate and broader access to financial services.
+          Lorem ipsum dolor amet seitan stumptown
+           normcore salvia blog blue bottle artisan tofu echo park viral bespoke
+            keytar put a bird on it VHS. IPhone narwhal meditation salvia. S
+            artorial vegan retro PBR&B four dollar toast. Hell of gastropub synth, 
+            tumeric squid next level single-origin coffee flannel keffiyeh bushwick
+             shaman bespoke helvetica gochujang direct trade. Cardigan trust fund
+              farm-to-table, listicle bitters crucifix seitan gastropub YOLO artisan. 
+              Blog kale chips crucifix chicharrones artisan cred skateboard.
           </p>
           </section>
           <section className='child-container'>
@@ -186,7 +201,7 @@ class Index extends React.Component {
 
         </li>
       </ul>
-      <p className="text-muted small mb-0">Copyright &copy; Storytime 2019</p>
+      <p className="small mb-0">Copyright &copy; Storytime 2019</p>
     </div>
   </footer>
   </div>
