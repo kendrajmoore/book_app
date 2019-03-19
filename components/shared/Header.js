@@ -33,13 +33,10 @@ export default class Header extends React.Component {
                 <NavLink href="/about">About</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/team">Login</NavLink>
+                <NavLink href="https://whispering-woodland-18970.herokuapp.com/users/login">Login</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/team">SignUp</NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink href="/team">Logout</NavLink>
+                <NavLink href="https://whispering-woodland-18970.herokuapp.com/users/new">SignUp</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
