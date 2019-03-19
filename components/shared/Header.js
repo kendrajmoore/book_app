@@ -22,6 +22,7 @@ export default class Header extends React.Component {
     return (
       <div>
         <Navbar className="port-navbar port-default" color="dark" light expand="md">
+        <img className="image" src="static/2.png" />
           <NavbarBrand className="brand" href="/">Storytime</NavbarBrand>
           <NavbarToggler/>
           <Collapse navbar>
