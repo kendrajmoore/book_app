@@ -14,7 +14,7 @@ class Index extends React.Component {
       </Head>
       <Header />
       <div>
-      <img className="logo" src="/static/logo.png" alt="logo" />
+      <img className="logo" src="static/logo-new.svg" alt="logo" />
       <p className='tagline'>Making Storytime Magical</p>
     </div>
   
@@ -27,7 +27,7 @@ class Index extends React.Component {
           </section>
           <section className='child-container'>
           <h3 className="right-text">Create lasting memories in seconds</h3>
-          <img className="money" src="/static/night.svg" />
+          <img className="money" src="static/night.svg" />
           </section>    
     </div>
   </section>
@@ -48,7 +48,7 @@ class Index extends React.Component {
 
         <div className="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <span className="service-icon rounded-circle mx-auto mb-3-large">
-          <img className="too-large" src="static/laptop.png" />
+          <img className="too-large" src="static/laptop.svg" />
           </span>
           <h4>
             <strong>Sign Up</strong>
@@ -59,7 +59,7 @@ class Index extends React.Component {
 
         <div className="col-lg-3 col-md-6 mb-5 mb-md-0">
           <span className="service-icon rounded-circle mx-auto mb-3">
-            <img src="/static/book.png"/>
+            <img src="static/book-paint.svg"/>
           </span>
           <h4>
             <strong>Large Book Selections</strong>
@@ -72,7 +72,7 @@ class Index extends React.Component {
 
         <div className="col-lg-3 col-md-6">
           <span className="service-icon rounded-circle mx-auto mb-3-large">
-            <img className="too-large" src="static/microphone.png" />
+            <img className="too-large" src="static/microphone-paint.svg" />
           </span>
           <h4>
             <strong>Record Audio/Video</strong>
@@ -82,7 +82,7 @@ class Index extends React.Component {
 
         <div className="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <span className="service-icon rounded-circle mx-auto mb-3">
-            <img src="static/upload.png" />
+            <img src="static/clouds.svg" />
           </span>
           <h4>
             <strong>Upload to the Cloud</strong>
