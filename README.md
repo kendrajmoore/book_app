@@ -27,15 +27,16 @@ To learn more about Storytime visit our [documentation site](https://kendrajmoor
 
 ## Wireframes
 <p align="center">
+
+ <img src="static/wireframe_four.jpeg"
+         width="200" />
+    <img src="static/wireframe_five.jpeg"
+         width="200" />
     <img src="static/wireframe_one.png"
          width="200" />
      <img src="static/wireframe_two.png"
          width="200" />
     <img src="static/wireframe_three.png"
-         width="200" />
-    <img src="static/wireframe_four.jpeg"
-         width="200" />
-    <img src="static/wireframe_five.jpeg"
          width="200" />
 </p>
 
