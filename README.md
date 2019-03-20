@@ -25,6 +25,20 @@ To learn more about Storytime visit our [documentation site](https://kendrajmoor
 * [Flipbook](https://github.com/joerez/flipbook-library) - Flipbook API created by Joe Rezendes
 
 
+## Wireframes
+<p align="center">
+    <img src="static/wireframe_one.png"
+         width="200" />
+     <img src="static/wireframe_two.png"
+         width="200" />
+    <img src="static/wireframe_three.png"
+         width="200" />
+    <img src="static/wireframe_four.jpeg"
+         width="200" />
+    <img src="static/wireframe_five.jpeg"
+         width="200" />
+</p>
+
 ## File Structure 
 ```
 root/
