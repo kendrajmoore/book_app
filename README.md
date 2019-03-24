@@ -21,8 +21,9 @@ To learn more about Storytime visit our [documentation site](https://kendrajmoor
 * [MongoDB](https://www.mongodb.com/) - Document based database
 * [Next.js](https://nextjs.org/) - React framework for rendering server side apps
 
-## API Integrations
+## Open Source Integrations
 * [Flipbook](https://github.com/joerez/flipbook-library) - Flipbook API created by Joe Rezendes
+* [RecordRTC](hhttps://github.com/muaz-khan/RecordRTC/tree/master/RecordRTC-to-Nodejs) - API to create videos created by Muaz Khan 
 
 
 ## Wireframes
@@ -118,6 +119,14 @@ git push heroku master
 
 ## Live Version 
 Live version - https://storytime-kjm.herokuapp.com/
+
+## How to Use
+* Create an account
+* Select Video and Record your book
+* Save video to disk and add to your project public folder
+* Select new book and add your video url - /public/myvideo.webm
+* Fill in book info and save book
+
 
 ## Developers
 ### Kendra Moore
