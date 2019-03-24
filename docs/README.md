@@ -1,3 +1,4 @@
+<p align="center">   
     <img src="static/logo.png"
          width="300" />
 </p>
