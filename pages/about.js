@@ -15,6 +15,7 @@ class About extends React.Component {
       <img className="make-image" src="/static/girls.svg" />
 
       <p>Storytime was created so that I could share stories with my daughter during seperations.
+        I was inspired by parents recording messages for their children during military deployments.
       </p>
     </div>
   </div>

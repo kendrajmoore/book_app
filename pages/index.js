@@ -18,21 +18,6 @@ class Index extends React.Component {
       <p className='tagline'>Making Storytime Magical</p>
     </div>
   
-
-  <section className="content-section bg-light" id="about">
-    <div className="container-box">      
-          <section className='child-container'>
-          <div className="space">
-          </div>
-          </section>
-          <section className='child-container'>
-          <h3 className="right-text">Create lasting memories in seconds</h3>
-          <img className="money" src="static/night.svg" />
-          </section>    
-    </div>
-  </section>
-
-  
   <section className="content-section bg-primary text-white text-center" id="services">
 
 
@@ -122,15 +107,9 @@ class Index extends React.Component {
           <div className="space-three">
 
           </div>
-          <h1 className="right-text-three">Test</h1>
-          <p className="use-paragraph-three">Lorem ipsum dolor amet seitan stumptown
-           normcore salvia blog blue bottle artisan tofu echo park viral bespoke
-            keytar put a bird on it VHS. IPhone narwhal meditation salvia. S
-            artorial vegan retro PBR&B four dollar toast. Hell of gastropub synth, 
-            tumeric squid next level single-origin coffee flannel keffiyeh bushwick
-             shaman bespoke helvetica gochujang direct trade. Cardigan trust fund
-              farm-to-table, listicle bitters crucifix seitan gastropub YOLO artisan. 
-              Blog kale chips crucifix chicharrones artisan cred skateboard. </p>
+          <h1 className="right-text-three">Imagination Starts Here</h1>
+          <p className="use-paragraph-three">Kids need to play and use their Imagination
+          to develop. This app allows them to enjoy their favorite books every night. </p>
           </section>
           <section className='child-container'>
           <img className="money" src="/static/castle.svg" />
@@ -148,15 +127,9 @@ class Index extends React.Component {
           <div className="space-four">
 
           </div>
-          <h2 className="right-text-three">test</h2>
-          <p className="use-paragraph-four"> Lorem ipsum dolor amet seitan stumptown
-           normcore salvia blog blue bottle artisan tofu echo park viral bespoke
-            keytar put a bird on it VHS. IPhone narwhal meditation salvia. S
-            artorial vegan retro PBR&B four dollar toast. Hell of gastropub synth, 
-            tumeric squid next level single-origin coffee flannel keffiyeh bushwick
-             shaman bespoke helvetica gochujang direct trade. Cardigan trust fund
-              farm-to-table, listicle bitters crucifix seitan gastropub YOLO artisan. 
-              Blog kale chips crucifix chicharrones artisan cred skateboard.
+          <h2 className="right-text-three">Improving Literacy</h2>
+          <p className="use-paragraph-four"> Help kids learn to read by
+          allowing them to match the text with the audio recording.
             </p>
           </section> 
     </div>
@@ -169,17 +142,11 @@ class Index extends React.Component {
           <div className="space-five">
 
           </div>
-          <h2 className="right-text-four">Test</h2>
+          <h2 className="right-text-four">Kids Take Charge</h2>
           <p className="use-paragraph-five">
-          Lorem ipsum dolor amet seitan stumptown
-           normcore salvia blog blue bottle artisan tofu echo park viral bespoke
-            keytar put a bird on it VHS. IPhone narwhal meditation salvia. S
-            artorial vegan retro PBR&B four dollar toast. Hell of gastropub synth, 
-            tumeric squid next level single-origin coffee flannel keffiyeh bushwick
-             shaman bespoke helvetica gochujang direct trade. Cardigan trust fund
-              farm-to-table, listicle bitters crucifix seitan gastropub YOLO artisan. 
-              Blog kale chips crucifix chicharrones artisan cred skateboard.
-          </p>
+        Allow your children to record their favorite stories to listen to 
+        every night.
+        </p>
           </section>
           <section className='child-container'>
           <img className="money" src="/static/monster.svg" />
