@@ -23,7 +23,7 @@ To learn more about Storytime visit our [documentation site](https://kendrajmoor
 
 ## Open Source Integrations
 * [Flipbook](https://github.com/joerez/flipbook-library) - Flipbook API created by Joe Rezendes
-* [RecordRTC](hhttps://github.com/muaz-khan/RecordRTC/tree/master/RecordRTC-to-Nodejs) - API to create videos created by Muaz Khan 
+* [RecordRTC](https://github.com/muaz-khan/RecordRTC/tree/master/RecordRTC-to-Nodejs) - API to create videos created by Muaz Khan 
 
 
 ## Wireframes
