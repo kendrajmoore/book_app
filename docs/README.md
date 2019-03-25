@@ -1,7 +1,3 @@
-<p align="center">   
-    <img src="static/logo.png"
-         width="300" />
-</p>
 
 # Storytime
 
@@ -13,9 +9,6 @@ This a class project based on my personal desire to create audio books for my da
 Parents that have to be away from their kids (such as military deploymnets) 
 need a way to create audiobook
 
-### Documentation
-To learn more about Storytime visit our [documentation site](https://kendrajmoore.github.io/book_app/)
-
 ## Built With
 * [Node](https://nodejs.org/en/) - Node
 * [MongoDB](https://www.mongodb.com/) - Document based database
@@ -25,21 +18,6 @@ To learn more about Storytime visit our [documentation site](https://kendrajmoor
 * [Flipbook](https://github.com/joerez/flipbook-library) - Flipbook API created by Joe Rezendes
 * [RecordRTC](https://github.com/muaz-khan/RecordRTC/tree/master/RecordRTC-to-Nodejs) - API to create videos created by Muaz Khan 
 
-
-## Wireframes
-<p align="center">
-
- <img src="static/wireframe_four.jpeg"
-         width="200" />
-    <img src="static/wireframe_five.jpeg"
-         width="200" />
-    <img src="static/wireframe_one.png"
-         width="200" />
-     <img src="static/wireframe_two.png"
-         width="200" />
-    <img src="static/wireframe_three.png"
-         width="200" />
-</p>
 
 ## File Structure 
 ```
