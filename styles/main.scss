@@ -112,13 +112,25 @@ h2.right-text-three {
       color: #8CCDB0;
   }
 
+
   .text-secondary {
     color: #8CCDB0 !important;
     padding-bottom: 50px;
   }
 
+  .card-img-top {
+    margin-top: 20px;
+    width: 25%;
+    align-content: center;
+    margin-left: 450px;
+  }
   p.error-page {
+  
       margin-left: 600px;
+  }
+
+  .card-body {
+    text-align: center;
   }
 
   p.tagline {

@@ -13,7 +13,7 @@ class Team extends React.Component {
     <div className="about">
     <CardGroup>
       <Card>
-        <CardImg top width="50%" src="static/kendra.svg" alt="apple" />
+        <CardImg top width="25%" src="static/kendra.svg" alt="apple" />
         <CardBody>
           <CardTitle><h3>Kendra Moore</h3></CardTitle>
           <br/>
