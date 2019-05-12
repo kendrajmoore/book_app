@@ -93,7 +93,7 @@ To begin using the project:
 
 #### Example
 ```
-$ git clone git@github.com:jasmines-co/best_website_ever.git
+$ git clone https://github.com/kendrajmoore/book_app.git
 $ cd best_website_ever
 $ npm install
 $ cp .env.example .env
@@ -118,7 +118,7 @@ git push heroku master
 ```
 
 ## Live Version 
-Live version - https://storytime-kjm.herokuapp.com/
+Live version - https://storyparttwo.herokuapp.com/
 
 ## How to Use
 * Create an account
